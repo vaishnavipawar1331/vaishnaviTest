@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    gap:20px;
+}
+.menu{
+  margin-left: 70px;
+  gap: 20px;
+}
+.title{
+  color: rgb(181, 38, 197);
+  text-align: center;
+}
+.flat{
+  color:black
+}
